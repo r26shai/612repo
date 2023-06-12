@@ -1645,7 +1645,7 @@ MonoBehaviour:
   m_Script: {fileID: 1339051007, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maskMaterial: {fileID: 2100000, guid: 36b1f386c1720c94889ac11ac9c8c6d1, type: 2}
+  maskMaterial: {fileID: 0}
 --- !u!33 &366645553
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -2402,7 +2402,7 @@ MonoBehaviour:
   m_Script: {fileID: 1339051007, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maskMaterial: {fileID: 2100000, guid: 36b1f386c1720c94889ac11ac9c8c6d1, type: 2}
+  maskMaterial: {fileID: 0}
 --- !u!33 &507286481
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -5224,7 +5224,7 @@ MonoBehaviour:
   m_Script: {fileID: 1339051007, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maskMaterial: {fileID: 2100000, guid: 36b1f386c1720c94889ac11ac9c8c6d1, type: 2}
+  maskMaterial: {fileID: 0}
 --- !u!33 &971108455
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -6331,7 +6331,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1235459601
 Transform:
   m_ObjectHideFlags: 0
@@ -7220,7 +7220,7 @@ MonoBehaviour:
   m_Script: {fileID: 1339051007, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maskMaterial: {fileID: 2100000, guid: 36b1f386c1720c94889ac11ac9c8c6d1, type: 2}
+  maskMaterial: {fileID: 0}
 --- !u!33 &1331459539
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -9303,7 +9303,7 @@ MonoBehaviour:
   m_Script: {fileID: 1339051007, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maskMaterial: {fileID: 2100000, guid: 36b1f386c1720c94889ac11ac9c8c6d1, type: 2}
+  maskMaterial: {fileID: 0}
 --- !u!33 &1594439660
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -10955,7 +10955,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1947081846
 Transform:
   m_ObjectHideFlags: 0
@@ -11939,7 +11939,7 @@ MonoBehaviour:
   m_Script: {fileID: 1339051007, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maskMaterial: {fileID: 2100000, guid: 36b1f386c1720c94889ac11ac9c8c6d1, type: 2}
+  maskMaterial: {fileID: 0}
 --- !u!33 &2143404839
 MeshFilter:
   m_ObjectHideFlags: 0
